@@ -17,9 +17,9 @@ Simple notebook to search torrents using Google Colab.
 
 # Screenshot
 
-![Searching Torrent](https://github.com/lokeshj074/Torrent_Search_Download_Gdrive_LokeshJ/blob/main/Screen_shot1.jpg)
+![Page](https://github.com/LokeshJ-Repo/Torrent-Seacrher/blob/main/Screen_shot_1.JPG)
 
-![Downloading Torrent](https://github.com/lokeshj074/Torrent_Search_Download_Gdrive_LokeshJ/blob/main/Screen_shot2.jpg)
+![Searching Torrent](https://github.com/LokeshJ-Repo/Torrent-Seacrher/blob/main/Screen_Shot_2.JPG)
 
 
 
